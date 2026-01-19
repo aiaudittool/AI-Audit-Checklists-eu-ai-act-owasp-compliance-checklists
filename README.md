@@ -31,4 +31,4 @@ Perfect for developers, compliance officers, and AI startups building trustworth
 ## Quick Start
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/aiaudittool/eu-ai-act-owasp-compliance-checklists.git
+   git clone https://github.com/aiaudittool/AI-Audit-Checklists-eu-ai-act-owasp-compliance-checklists.git
