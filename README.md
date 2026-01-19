@@ -1,7 +1,7 @@
 # EU AI Act & OWASP 2025 Compliance Checklists  
 **Open-source templates for AI governance, risk assessment, and security audits**
 
-
+Author: https://aiaudittool.net 
 
 ## Overview
 This repository provides free, open-source checklists, templates, and mapping guides to help developers, startups, and organizations achieve **EU AI Act compliance**, mitigate **OWASP LLM Top 10 vulnerabilities (2025 update)**, align with **NIST AI RMF**, and perform **generative AI security audits**.
